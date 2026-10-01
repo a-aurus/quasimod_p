@@ -1,8 +1,12 @@
 # Quasimod (Mod for Quasimorph)
 
-Mod Content:
-
 ## 🎮 Gameplay
+* **Noise Mechanics**:
+	* Projectiles hitting the wall will now also alert nearby enemies
+	* Walking or Running now produces noise:
+		* Running next to a wall can alert enemies staying close in the adjacent room.
+		* Walking would be generally unnoticeable, unless you are have Echo curse.
+
 * **Missions:**
     * Faction takeover mission is generated always at max difficulty
     * Additional floor difficulty preset:
@@ -27,11 +31,17 @@ Mod Content:
 * **Mercenary Classes:**
     * All classes have now free perk slot you could use in Mercenary Class Project
 * **Enemies:**
+    * **AI**:
+		* Implemented experimental logic to prevent AI from getting trapped or stuck in large groups when investigating.
+    * **Eccolapsing enemies:** Invulnerability was removed; incoming attacks has 50% chance to miss and would deal reduced damage.
+	* **Rebalanced stats**:
+		* Base HP for humanoid enemies slightly increased
+		* Female variants Health was increased
     * **Loot drops were rebalanced:**
         * Valuable items are more rare (such as barter items and data items)
         * Food is more common
-        * Quest enemies are not affected
-    * **Eccolapsing enemies:** Invulnerability was removed; incoming attacks has 50% chance to miss and would deal reduced damage.
+        * Quest enemies are not affected   
+
 * **Items:**
     * **Items like food box, weapon box, drug cargo, etc.:** Disassemble drop is guaranteed, but in lesser quantities and sometimes the luck may intervene. (This also true when disassembling at recycler)
     * **Weapon box:** Disassembling yields only weapons, drop table was expanded
