@@ -77,7 +77,7 @@
     * Keybinds to switch to Stealth, Walk, or Run mode directly
     * Keybind to toggle the camera mode between Locked on Player and Free modes.
 
-* Some other small QOL
+* Some other small QOL changes
 
 ------------------------------
 ## 🛠️ Configuration & Settings
