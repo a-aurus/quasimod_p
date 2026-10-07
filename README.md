@@ -78,6 +78,7 @@
     * Keybind to toggle the camera mode between Locked on Player and Free modes.
 
 * Some other small QOL
+
 ------------------------------
 ## 🛠️ Configuration & Settings
 * Settings are configuration file located at: %AppData%\LocalLow\Magnum Scriptum LTD\Quasimorph
