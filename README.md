@@ -85,6 +85,6 @@
 
 ------------------------------
 ## 🛠️ Configuration & Settings
-* Settings are configuration file located at: %AppData%\LocalLow\Magnum Scriptum LTD\Quasimorph
+* Settings configuration file located at: %AppData%\LocalLow\Magnum Scriptum LTD\Quasimorph
 * Includes an option to completely disable experimental features in case they cause trouble.
 * An in-game settings menu will be added in the near future.
