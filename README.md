@@ -48,7 +48,7 @@
     * **Mercenary Classes:**
         * All classes now have an unassigned perk slot you can use in the Mercenary Class Project.
     * **Perks:**
-        * Ranks were rebalanced to give utility early on and combat power at a higher ranks
+        * Ranks were rebalanced to give utility early on and combat power later at a higher ranks
         * Few class perks were also rebalanced
     * **General:**
         * Starvation from running were slightly reduced
